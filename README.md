@@ -14,5 +14,13 @@ Online free courses
 
 - Github for portfolio building
 
-  ##### Data cleaning and preparation 
+  ##### Data cleaning and preparation
+
+###### Data analysis 
+
+
+   ~~~Sql
+ Select * from table1
+ Where condition=true
+   ~~~
   
