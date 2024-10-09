@@ -11,4 +11,8 @@ Online free courses
 ##### Tools used
 - Spread sheet (Download Here)(https://www.microsoft.com)
 - pivot
+
+- Github for portfolio building
+
+  ##### Data cleaning and preparation 
   
