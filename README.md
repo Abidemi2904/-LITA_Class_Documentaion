@@ -23,4 +23,6 @@ Online free courses
  Select * from table1
  Where condition=true
    ~~~
+
+
   
