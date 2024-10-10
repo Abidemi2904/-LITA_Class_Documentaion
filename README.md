@@ -28,6 +28,6 @@ Online free courses
 ![Screenshot 2024-05-11 104339](https://github.com/user-attachments/assets/1451f2ec-acdb-4086-bd75-01c8e91c85b0)
 
 
-![Screenshot 2024-05-11 104352](https://github.com/user-attachments/assets/22610cb3-fa1d-4d04-b2cd-ee73e6cc4bd8)
+
 
   
