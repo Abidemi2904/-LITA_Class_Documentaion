@@ -2,7 +2,7 @@
 
 ## Project Title: Excel Class
 
-(project overview)(#project-overview)
+[project overview](#project-overview)
 
 Data source
 
